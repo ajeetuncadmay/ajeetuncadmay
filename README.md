@@ -187,40 +187,7 @@ Transformers
 
 ✅ Responsive Dashboard
 
-### Tech Stack
-
-```text
-Node.js
-JavaScript
-OpenWeather API
-Handlebars.js
-```
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em"
-src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
+-----
 
 # 🏆 Achievements
 
