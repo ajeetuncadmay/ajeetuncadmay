@@ -243,4 +243,14 @@ Transformers
 
 ### "Transforming Data Into Intelligence"
 
+## **👕 LeetCode DSA Problems Solved**
+
+<p align="center" style="background-color: #000000; padding: 20px;">
+  <marquee behavior="alternate" direction="left" scrollamount="5" width="100%">
+    <img src="i-removebg-preview.png" alt="Moving LeetCode T-Shirt" width="300">
+  </marquee>
+</p> 
+</div>
+<div align="center">
+                              ## 👋 Welcome to my GitHub!🎯 Glad you stopped by to explore my code journey🌐
 </div>
